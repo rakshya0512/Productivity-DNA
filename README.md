@@ -104,12 +104,15 @@ These metrics are used to generate the user's Productivity DNA Profile.
 - HTML
 - CSS
 - JavaScript
+
 **Backend**
 - Flask (Python)
+  
 **Machine Learning**
 - Scikit-Learn
 - K-Means Clustering
 - Random Forest Classifier
+  
 **Data Visualization**
 - Chart.js
 
