@@ -98,43 +98,6 @@ These metrics are used to generate the user's Productivity DNA Profile.
 
 ---
 
-## Technologies Used
-
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-
-**Backend**
-- Flask (Python)
-  
-**Machine Learning**
-- Scikit-Learn
-- K-Means Clustering
-- Random Forest Classifier
-  
-**Data Visualization**
-- Chart.js
-
----
-
-## Project Structure
-
-```text
-Productivity-DNA-Analyzer/
-│
-├── index.html
-├── README.md
-└── images/
-    ├── Landing_Page.png
-    ├── User_Details.png
-    ├── Assessment.png
-    ├── Report_1.png
-    └── Report_2.png
-```
-
----
-
 ## Screenshots
 
 ### Landing Page
